@@ -1,0 +1,19 @@
+﻿@model LearningWebsite.Models.EnrollClassModel
+
+@{
+    ViewBag.Title = "EnrollClass";
+}
+
+<h2>Enroll In Class</h2>
+<div class="row">
+    @using (Html.BeginForm("EnrollClass", "Home", new { ReturnUrl = ViewBag.ReturnUrl },
+                FormMethod.Post, new { @class = "form-horizontal", role = "form" }))
+    {
+        <div class="form-group">
+            @Html.DropDownListFor(m => m.ClassId, Model.Classes)
+        </div>
+        <div class="form-group">
+            <input type="submit" value="Add Class" class="btn btn-default" />
+        </div>
+    }
+</div>
