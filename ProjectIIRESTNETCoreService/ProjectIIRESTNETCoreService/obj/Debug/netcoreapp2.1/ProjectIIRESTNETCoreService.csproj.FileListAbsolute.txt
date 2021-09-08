@@ -1,0 +1,17 @@
+C:\Users\lingx\source\repos\ProjectIIRESTNETCoreService\ProjectIIRESTNETCoreService\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\lingx\source\repos\ProjectIIRESTNETCoreService\ProjectIIRESTNETCoreService\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\lingx\source\repos\ProjectIIRESTNETCoreService\ProjectIIRESTNETCoreService\bin\Debug\netcoreapp2.1\ProjectIIRESTNETCoreService.deps.json
+C:\Users\lingx\source\repos\ProjectIIRESTNETCoreService\ProjectIIRESTNETCoreService\bin\Debug\netcoreapp2.1\ProjectIIRESTNETCoreService.runtimeconfig.json
+C:\Users\lingx\source\repos\ProjectIIRESTNETCoreService\ProjectIIRESTNETCoreService\bin\Debug\netcoreapp2.1\ProjectIIRESTNETCoreService.runtimeconfig.dev.json
+C:\Users\lingx\source\repos\ProjectIIRESTNETCoreService\ProjectIIRESTNETCoreService\bin\Debug\netcoreapp2.1\ProjectIIRESTNETCoreService.dll
+C:\Users\lingx\source\repos\ProjectIIRESTNETCoreService\ProjectIIRESTNETCoreService\bin\Debug\netcoreapp2.1\ProjectIIRESTNETCoreService.pdb
+C:\Users\lingx\source\repos\ProjectIIRESTNETCoreService\ProjectIIRESTNETCoreService\obj\Debug\netcoreapp2.1\ProjectIIRESTNETCoreService.csprojAssemblyReference.cache
+C:\Users\lingx\source\repos\ProjectIIRESTNETCoreService\ProjectIIRESTNETCoreService\obj\Debug\netcoreapp2.1\ProjectIIRESTNETCoreService.AssemblyInfoInputs.cache
+C:\Users\lingx\source\repos\ProjectIIRESTNETCoreService\ProjectIIRESTNETCoreService\obj\Debug\netcoreapp2.1\ProjectIIRESTNETCoreService.AssemblyInfo.cs
+C:\Users\lingx\source\repos\ProjectIIRESTNETCoreService\ProjectIIRESTNETCoreService\obj\Debug\netcoreapp2.1\ProjectIIRESTNETCoreService.csproj.CoreCompileInputs.cache
+C:\Users\lingx\source\repos\ProjectIIRESTNETCoreService\ProjectIIRESTNETCoreService\obj\Debug\netcoreapp2.1\ProjectIIRESTNETCoreService.RazorAssemblyInfo.cache
+C:\Users\lingx\source\repos\ProjectIIRESTNETCoreService\ProjectIIRESTNETCoreService\obj\Debug\netcoreapp2.1\ProjectIIRESTNETCoreService.RazorAssemblyInfo.cs
+C:\Users\lingx\source\repos\ProjectIIRESTNETCoreService\ProjectIIRESTNETCoreService\obj\Debug\netcoreapp2.1\ProjectIIRESTNETCoreService.RazorTargetAssemblyInfo.cache
+C:\Users\lingx\source\repos\ProjectIIRESTNETCoreService\ProjectIIRESTNETCoreService\obj\Debug\netcoreapp2.1\ProjectIIRESTNETCoreService.dll
+C:\Users\lingx\source\repos\ProjectIIRESTNETCoreService\ProjectIIRESTNETCoreService\obj\Debug\netcoreapp2.1\ProjectIIRESTNETCoreService.pdb
+C:\Users\lingx\source\repos\ProjectIIRESTNETCoreService\ProjectIIRESTNETCoreService\obj\Debug\netcoreapp2.1\ProjectIIRESTNETCoreService.genruntimeconfig.cache

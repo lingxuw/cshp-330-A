@@ -1,0 +1,148 @@
+{
+	"variables": [],
+	"info": {
+		"name": "Users",
+		"_postman_id": "643b5664-cc85-b250-84ab-455b276e529f",
+		"description": "",
+		"schema": "https://schema.getpostman.com/json/collection/v2.0.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "Get Users",
+			"request": {
+				"url": "http://localhost:43858/api/users",
+				"method": "GET",
+				"header": [
+					{
+						"key": "Accept",
+						"value": "application/json",
+						"description": ""
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": "{ \"Email\": \"dave@gmail.com\" }"
+				},
+				"description": ""
+			},
+			"response": []
+		},
+		{
+			"name": "Get Specific User",
+			"request": {
+				"url": "http://localhost:43858/api/users/1",
+				"method": "GET",
+				"header": [
+					{
+						"key": "Accept",
+						"value": "application/json",
+						"description": ""
+					}
+				],
+				"body": {},
+				"description": ""
+			},
+			"response": []
+		},
+		{
+			"name": "Post User Fail",
+			"request": {
+				"url": "http://localhost:43858/api/users",
+				"method": "POST",
+				"header": [
+					{
+						"key": "Accept",
+						"value": "application/json",
+						"description": ""
+					},
+					{
+						"key": "Content-Type",
+						"value": "application/json",
+						"description": ""
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": "{ \"Email\": \"dave@gmail.com\" }"
+				},
+				"description": ""
+			},
+			"response": []
+		},
+		{
+			"name": "Post User Success",
+			"request": {
+				"url": "http://localhost:43858/api/users",
+				"method": "POST",
+				"header": [
+					{
+						"key": "Accept",
+						"value": "application/json",
+						"description": ""
+					},
+					{
+						"key": "Content-Type",
+						"value": "application/json",
+						"description": ""
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": "{ \n\t\"Email\": \"dave@gmail.com\",\n\t\"Password\": \"pw\"\n}"
+				},
+				"description": ""
+			},
+			"response": []
+		},
+		{
+			"name": "Delete User",
+			"request": {
+				"url": "http://localhost:43858/api/users/1",
+				"method": "DELETE",
+				"header": [
+					{
+						"key": "Accept",
+						"value": "application/json",
+						"description": ""
+					},
+					{
+						"key": "Content-Type",
+						"value": "application/json",
+						"description": ""
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": "{ \n\t\"Email\": \"dave@gmail.com\",\n\t\"Password\": \"pw\"\n}"
+				},
+				"description": ""
+			},
+			"response": []
+		},
+		{
+			"name": "Put User",
+			"request": {
+				"url": "http://localhost:43858/api/users/1",
+				"method": "PUT",
+				"header": [
+					{
+						"key": "Accept",
+						"value": "application/json",
+						"description": ""
+					},
+					{
+						"key": "Content-Type",
+						"value": "application/json",
+						"description": ""
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": "{ \n\t\"Email\": \"dave@gmail.com\",\n\t\"Password\": \"pw1\"\n}"
+				},
+				"description": ""
+			},
+			"response": []
+		}
+	]
+}
